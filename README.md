@@ -1,4 +1,4 @@
-# Vectores
+# Vectores Giovanni antolinez y Duban Vargas
 # README - Registro de Vértices y Caras en C++ y Python
 
 Este proyecto permite registrar vértices y caras de una figura geométrica utilizando arreglos. Se proporciona un menú interactivo en C++ y una versión en Python para facilitar la entrada de datos y la generación de un modelo en formato OBJ.
